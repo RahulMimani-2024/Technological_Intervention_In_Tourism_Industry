@@ -12,4 +12,5 @@ Future works :
 We can use google search query data to predict the recovery time period of the tourism industry due to pandemic using the same models.
 
 How to run the colab notebooks? 
-First of all open the notebook then press on connect and then upload the files attached below after downloading it and run all the cells  [https://docs.google.com/spreadsheets/d/15FDCd92FEXP_fpKZuHuUx2XFH6vSBEN6SLhIfEwA5yo/edit?usp=sharing](Open this and download and upload it to the notebook)
+First of all open the notebook then press on connect and then upload the files attached below after downloading it and run all the cell 
+Open [https://docs.google.com/spreadsheets/d/15FDCd92FEXP_fpKZuHuUx2XFH6vSBEN6SLhIfEwA5yo/edit?usp=sharing](this) then download and upload it to the notebook then run all after connecting.
