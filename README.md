@@ -14,4 +14,4 @@ How to run the colab notebooks?
 First of all open the notebook then press on connect and then upload the files attached below after downloading it and run all the cell 
 Open [this](https://docs.google.com/spreadsheets/d/15FDCd92FEXP_fpKZuHuUx2XFH6vSBEN6SLhIfEwA5yo/edit?usp=sharing) then download and upload it to the notebook then run all after connecting.
 
-Complete Report - [Link](https://drive.google.com/file/d/1dDyoni0J0BRYWoIhYjoOEXSOssDFGc8P/view?usp=sharing)
+[Complete Report](https://drive.google.com/file/d/1dDyoni0J0BRYWoIhYjoOEXSOssDFGc8P/view?usp=sharing)
